@@ -52,8 +52,6 @@ THRIFTIFY is a modern e-commerce platform dedicated to selling thrifted and sust
 
 - Chrome (latest)
 - Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
 ## Project Structure
 
@@ -72,7 +70,7 @@ THRIFTIFY/
 
 ## Author
 
-[Your Name]
+ELIDY MURIITHI
 
 ## License
 
