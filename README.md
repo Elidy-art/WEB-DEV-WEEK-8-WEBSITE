@@ -2,6 +2,10 @@
 
 THRIFTIFY is a modern e-commerce platform dedicated to selling thrifted and sustainable fashion items. The website is built with HTML5, CSS3, and JavaScript, featuring a responsive design that works seamlessly across all devices.
 
+## Live Demo
+
+Check out the live website here: [THRIFTIFY on Vercel](https://web-dev-week-8-website.vercel.app/)
+
 ## Features
 
 - Responsive design that works on desktop, tablet, and mobile devices
